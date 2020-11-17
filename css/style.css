@@ -1,0 +1,12 @@
+h1 {
+	text-align: center; 
+	font-family: helvetica; 
+	font-size: 30px; 
+	padding: 25px;
+} 
+
+#img-div {text-align: center;} 
+
+#tribute-info {
+	text-align: justify; 
+}
